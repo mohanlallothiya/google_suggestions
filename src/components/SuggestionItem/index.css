@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.suggestionItemCon {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+.arrow {
+  width: 20px;
+}
